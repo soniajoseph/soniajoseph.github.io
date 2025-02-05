@@ -19,6 +19,10 @@
   </head>
 
   <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
+    <div class="redirect-banner" id="redirectBanner">
+      This website has been archived. Please visit my new website: <a href="https://www.soniajoseph.ai/">Sonia's AI Research Notebook</a>
+    </div>
+    
     {% include_cached skip-links.html %}
     {% include_cached browser-upgrade.html %}
     {% include_cached masthead.html %}
