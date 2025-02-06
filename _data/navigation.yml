@@ -3,7 +3,7 @@ main:
   - title: "About"
     url: /about/
   - title: "All Posts"
-    url: /index
+    url: /all-posts/
   - title: "Projects"
     url: /projects/
   - title: "Computational Neuroscience"
