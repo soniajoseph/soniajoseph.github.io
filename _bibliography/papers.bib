@@ -2,70 +2,127 @@
 ---
 
 % =============================================================================
-% PUBLICATIONS
-% =============================================================================
-% Structure: Preprints first, then Conference/Journal, then Workshop
-%
-% Fields:
-%   abbr        - Venue abbreviation (badge)
-%   selected    - {true} to show on homepage (limit to 3-6)
-%   bibtex_show - {true} to show BibTeX button
-%   arxiv       - ArXiv ID
-%   pdf         - PDF link
-%   code        - Code repository
-%   html        - DOI or paper page
+% PUBLICATIONS - Sonia Joseph
 % =============================================================================
 
 % -----------------------------------------------------------------------------
-% PREPRINTS
+% 2025
 % -----------------------------------------------------------------------------
 
-@article{joseph2024preprint,
+@article{joseph2025prisma,
   abbr={arXiv},
-  title={Example Preprint: Video World Models for Physical Reasoning},
-  author={Joseph, Sonia and Collaborator, Name},
+  title={Prisma: An Open Source Toolkit for Mechanistic Interpretability in Vision and Video},
+  author={Joseph, Sonia and Suresh, Praneet and Hufe, Lorenz and Stevinson, Edward and Graham, Robert and Vadi, Yash and Bzdok, Danilo and Lapuschkin, Sebastian and Sharkey, Lee and Richards, Blake Aaron},
+  journal={arXiv preprint},
+  year={2025},
+  arxiv={2504.19475},
+  selected={true},
+  bibtex_show={true}
+}
+
+@article{joseph2025steering,
+  abbr={arXiv},
+  title={Steering CLIP's vision transformer with sparse autoencoders},
+  author={Joseph, Sonia and Suresh, Praneet and Goldfarb, Ethan and Hufe, Lorenz and Gandelsman, Yossi and Graham, Robert and Bzdok, Danilo and Samek, Wojciech and Richards, Blake Aaron},
+  journal={arXiv preprint},
+  year={2025},
+  arxiv={2504.08729},
+  selected={true},
+  bibtex_show={true}
+}
+
+@inproceedings{takatsuki2025decoding,
+  abbr={CVPR},
+  title={Decoding Vision Transformers: the Diffusion Steering Lens},
+  author={Takatsuki, Ryota and Joseph, Sonia and Fujisawa, Ippei and Kanai, Ryota},
+  booktitle={Proceedings of the Computer Vision and Pattern Recognition Conference},
+  pages={4819--4824},
+  year={2025},
+  selected={true},
+  bibtex_show={true}
+}
+
+@inproceedings{suresh2025noise,
+  abbr={NeurIPS},
+  title={From Noise to Narrative: Tracing the Origins of Hallucinations in Transformers},
+  author={Suresh, Praneet and Stanley, Jack and Joseph, Sonia and Scimeca, Luca and Bzdok, Danilo},
+  booktitle={The Thirty-ninth Annual Conference on Neural Information Processing Systems},
+  year={2025},
+  bibtex_show={true}
+}
+
+@inproceedings{venhoff2025too,
+  abbr={CVPR-W},
+  title={Too late to recall: The two-hop problem in multimodal knowledge retrieval},
+  author={Venhoff, Constantin and Khakzar, Ashkan and Joseph, Sonia and Torr, Philip and Nanda, Neel},
+  booktitle={Mechanistic Interpretability for Vision at CVPR 2025},
+  year={2025},
+  arxiv={2512.03276},
+  bibtex_show={true}
+}
+
+@article{venhoff2025visual,
+  abbr={arXiv},
+  title={How Visual Representations Map to Language Feature Space in Multimodal LLMs},
+  author={Venhoff, Constantin and Khakzar, Ashkan and Joseph, Sonia and Torr, Philip and Nanda, Neel},
+  journal={arXiv preprint},
+  year={2025},
+  arxiv={2506.11976},
+  bibtex_show={true}
+}
+
+@article{fel2025into,
+  abbr={arXiv},
+  title={Into the rabbit hull: From task-relevant concepts in DINO to minkowski geometry},
+  author={Fel, Thomas and Wang, Binxu and Lepori, Michael A and Kowal, Matthew and Lee, Andrew and Balestriero, Randall and Joseph, Sonia and Lubana, Ekdeep S and Konkle, Talia and Ba, Demba and others},
+  journal={arXiv preprint},
+  year={2025},
+  arxiv={2510.08638},
+  bibtex_show={true}
+}
+
+% -----------------------------------------------------------------------------
+% 2024
+% -----------------------------------------------------------------------------
+
+@article{jucys2024interpretability,
+  abbr={arXiv},
+  title={Interpretability in action: Exploratory analysis of VPT, a Minecraft agent},
+  author={Jucys, Karolis and Adamopoulos, George and Hamidi, Mehrab and Milani, Stephanie and Samsami, Mohammad Reza and Zholus, Artem and Joseph, Sonia and Richards, Blake and Rish, Irina and Şimşek, Özgür},
   journal={arXiv preprint},
   year={2024},
-  arxiv={2401.00000},
+  arxiv={2407.12161},
   bibtex_show={true}
 }
 
 % -----------------------------------------------------------------------------
-% CONFERENCE / JOURNAL PUBLICATIONS
+% 2023
 % -----------------------------------------------------------------------------
 
-@inproceedings{joseph2024neurips,
-  abbr={NeurIPS},
-  title={Example Paper: Multimodal Interpretability in Vision Models},
-  author={Joseph, Sonia and Collaborator, Alice and Advisor, Bob},
-  booktitle={Advances in Neural Information Processing Systems},
-  year={2024},
-  arxiv={2401.00001},
-  code={https://github.com/soniajoseph/example},
-  selected={true},
-  bibtex_show={true}
-}
-
-@inproceedings{joseph2023icml,
-  abbr={ICML},
-  title={Example Paper: Understanding Representations in Deep Networks},
-  author={Joseph, Sonia and Otherauthor, Carol},
-  booktitle={International Conference on Machine Learning},
-  year={2023},
-  arxiv={2301.00000},
-  selected={true},
-  bibtex_show={true}
-}
-
-% -----------------------------------------------------------------------------
-% WORKSHOP PAPERS (optional section)
-% -----------------------------------------------------------------------------
-
-@inproceedings{joseph2023workshop,
+@inproceedings{joseph2023mining,
   abbr={NeurIPS-W},
-  title={Workshop Paper Example},
-  author={Joseph, Sonia},
-  booktitle={NeurIPS Workshop on Example Topic},
+  title={Mining the diamond miner: Mechanistic interpretability on the video pretraining agent},
+  author={Joseph, Sonia and Zholus, Artem and Samsami, Mohammad Reza and Richards, Blake A},
+  booktitle={ATTRIB Workshop at NeurIPS},
   year={2023},
+  bibtex_show={true}
+}
+
+@inproceedings{joseph2023information,
+  abbr={NeurIPS-W},
+  title={On the information geometry of vision transformers},
+  author={Joseph, Sonia and Agrawal, Kumar Krishna and Ghosh, Arna and Richards, Blake Aaron},
+  booktitle={NeurIPS Workshop on Symmetry and Geometry in Neural Representations},
+  year={2023},
+  bibtex_show={true}
+}
+
+@article{joseph2023vit,
+  abbr={GitHub},
+  title={ViT Prisma: A mechanistic interpretability library for vision transformers},
+  author={Joseph, Sonia},
+  journal={GitHub repository},
+  year={2023},
+  code={https://github.com/soniajoseph/ViT-Prisma},
   bibtex_show={true}
 }
