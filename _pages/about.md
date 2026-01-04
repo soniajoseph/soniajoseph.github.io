@@ -8,7 +8,8 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false
-  more_info:
+  more_info: >
+    <style>.profile.float-right { margin-top: -4em !important; position: relative; top: -2em; }</style>
 
 selected_papers: false
 social: false
@@ -30,7 +31,7 @@ Research areas: multimodal interpretability, physical reasoning, video world mod
 <strong>Bio (extended):</strong> <a href="https://soniajoseph.ai/about">soniajoseph.ai/about</a>
 </p>
 
-<div class="contact-icons" style="margin-top: 1em;">
+<div class="contact-icons" style="margin-top: 1em; font-size: 2rem; text-align: center;">
 {% include social.liquid %}
 </div>
 
