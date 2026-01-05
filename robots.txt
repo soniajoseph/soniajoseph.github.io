@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://soniajoseph.github.io/sitemap.xml
