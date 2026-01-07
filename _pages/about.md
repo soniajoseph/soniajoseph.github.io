@@ -28,7 +28,7 @@ PhD candidate, McGill University & Mila.
 Research areas: multimodal interpretability, physical reasoning, video world models.
 
 <p style="font-size: 0.9em; margin-top: 1.5em; color: #666;">
-<a href="https://soniajoseph.ai/about">Bio</a> · <a href="https://soniajoseph.ai">Writing</a> · <a href="https://github.com/soniajoseph">Code</a> · <a href="https://scholar.google.com/citations?user=UilqI20AAAAJ">Scholar</a>
+<a href="https://soniajoseph.ai/about">Bio</a> · <a href="https://soniajoseph.ai">Writing</a> · <a href="https://github.com/soniajoseph">Code</a> · <a href="https://scholar.google.com/citations?user=UilqI20AAAAJ">Scholar</a> · <a href="https://x.com/soniajoseph_">X</a> · <a href="https://linkedin.com/in/soniamjoseph">LinkedIn</a>
 </p>
 
 <div style="clear: both; margin-top: 2em;"></div>
