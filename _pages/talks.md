@@ -12,5 +12,5 @@ nav_order: 3
 | Year | Title | Venue |
 |------|-------|-------|
 | 2024 | Tutorial / Talk on Interpretability & Alignment | MATS Theory & Alignment Program |
-| 2023 | Opening Talk, Mechanistic Interpretability in Vision Systems | Mechanistic Interpretability Workshop @ CVPR |
+| 2023 | Opening Talk, Mechanistic Interpretability in Vision Systems | [Mechanistic Interpretability for Vision](https://sites.google.com/view/miv-cvpr2025/) @ CVPR |
 | 2022 | Scaling Laws and Representation Structure | [3rd Neural Scaling Laws Workshop](https://sites.google.com/mila.quebec/3rd-scaling-laws-workshop/home) (Saint-Sauveur, QC) |
