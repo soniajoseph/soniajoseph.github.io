@@ -7,24 +7,10 @@ nav: true
 nav_order: 3
 ---
 
-Coming soon.
-
-<!--
-## Invited Talks
+## Selected Talks
 
 | Year | Title | Venue |
 |------|-------|-------|
-| 2024 | *Talk title* | Institution / Conference |
-| 2023 | *Talk title* | Institution / Conference |
-
-## Tutorials & Workshops
-
-| Year | Title | Venue |
-|------|-------|-------|
-| 2024 | *Tutorial title* | Conference |
-
-Add entries in format:
-| Year | Title | Venue | [Slides](link) |
-
-Optional: Add video links where available
--->
+| 2024 | Tutorial / Talk on Interpretability & Alignment | MATS Theory & Alignment Program |
+| 2023 | Opening Talk, Mechanistic Interpretability in Vision Systems | Mechanistic Interpretability Workshop @ CVPR |
+| 2022 | Scaling Laws and Representation Structure | 3rd Neural Scaling Laws Workshop (Saint-Sauveur, QC) |
