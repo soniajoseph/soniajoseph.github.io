@@ -2,7 +2,7 @@
 layout: about
 title: Publications
 permalink: /
-subtitle: AI Researcher (Video World Models, Interpretability)
+subtitle: AI Researcher (Video World Models, Interpretability) · <a href="https://soniajoseph.ai/about">Bio</a>
 
 profile:
   align: right
